@@ -1,0 +1,33 @@
+*{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: red;
+
+}
+h4{
+    color: green;
+    font-size: 30px;
+   font-style: italic;
+    
+}
+h3{
+   color: red; 
+}
+.brown{
+    color: brown;
+}
+.ul2{
+    letter-spacing: 4px;
+}
+.bolder{
+   font-weight: bolder; 
+   font-size: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.smallfontsize{
+    font-size: small;
+}
